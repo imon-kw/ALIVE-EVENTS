@@ -1,0 +1,8 @@
+{
+  "name": "এলাইভ ইভেন্ট - Alive Event",
+  "description": "প্রফেশনাল ফটোগ্রাফি, ভিডিওগ্রাফি ও সিনেমাটোগ্রাফি সার্ভিস। ওনার: ইমন (০১৭৮৮০৫৫৫৮৬)। সর্বনিম্ন ১৫০০ টাকা থেকে ৭০০০ টাকা পার ডে প্যাকেজ, লাইভ চ্যাট সাপোর্ট ও গুগল ড্রাইভ অ্যাক্সেস।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
